@@ -1,10 +1,5 @@
 # 基于springboot的在线考试管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ： **考试2**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -75,11 +70,5 @@
 
 ![管理员-设置参加判卷的考试](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131502818.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**考试2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
