@@ -69,6 +69,10 @@
 ![管理员-设置参加考试的学生](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131502312.jpg)
 
 ![管理员-设置参加判卷的考试](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208131502818.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：考试
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
 
